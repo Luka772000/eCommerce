@@ -258,3 +258,7 @@ C:\Users\Luka\source\repos\eCommerce API\eCommerce API\obj\Debug\net7.0\refint\A
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\obj\Debug\net7.0\API.pdb
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\obj\Debug\net7.0\ref\API.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\API.staticwebassets.runtime.json

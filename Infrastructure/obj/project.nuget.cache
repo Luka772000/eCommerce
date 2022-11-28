@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k7B5Q5zJc0edCxVew4ZOHtJC9jEAOb6tBJpvPriCr4ECjZiTKTg7Iz0C2g2D/1ceGttjXF75FVTME4XwON6Svw==",
+  "dgSpecHash": "731UxzAl2JHgV13NnKsYEmviKdCtJLy3NcNO+xyKlkL83yTvbjV4n3KeHzETSCCLOtDspkVhSK/C7YHiLYXhiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
