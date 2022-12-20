@@ -8,6 +8,7 @@ using eCommerce_API.Middleware;
 using Microsoft.AspNetCore.Mvc;
 using eCommerce_API.Errors;
 using eCommerce_API.Extensions;
+using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,7 +27,11 @@ builder.Services.AddCors(opt => {
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContext<StoreContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("DevConnection")));
-
+builder.Services.AddSingleton<IConnectionMultiplexer>(c =>
+{
+    var configuration = ConfigurationOptions.Parse(builder.Configuration.GetConnectionString("Redis"), true);
+    return ConnectionMultiplexer.Connect(configuration);
+});
 
 builder.Services.AddAutoMapper(typeof(MappingProfiles));
 

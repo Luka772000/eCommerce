@@ -38,7 +38,7 @@ namespace eCommerce_API.Controllers
         [HttpGet("badrequest/{id}")]
         public ActionResult GetNotFoundRequest(int id)
         {
-            return Ok();
+            return NotFound();
         }
         
     }

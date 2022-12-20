@@ -12,8 +12,6 @@ C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\API.runt
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\API.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\API.pdb
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\MessagePack.dll
-C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\MessagePack.Annotations.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -42,7 +40,6 @@ C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsof
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
@@ -262,3 +259,10 @@ C:\Users\Luka\source\repos\eCommerce API\eCommerce API\obj\Debug\net7.0\API.MvcA
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Newtonsoft.Json.Schema.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll

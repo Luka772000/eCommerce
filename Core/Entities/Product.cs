@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Core.Entities
 {
-    public class Product:BaseEntity
+    public class Product : BaseEntity
     {
         [Required]
         [Column(TypeName = "varchar(50)")]
@@ -17,6 +17,6 @@ namespace Core.Entities
         public int ProductTypeId { get; set; }
         public ProductBrand ProductBrand { get; set; }
         public int ProductBrandId { get; set; }
-        
+
     }
 }

@@ -52,13 +52,13 @@ namespace eCommerce_API.Controllers
         [HttpGet("brands")]
         public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetProductBrands()
         {
-            var brands = await _productRepository.ListAllAsync();
+            var brands = await _productBrandRepository.ListAllAsync();
             return Ok(brands);
         }
         [HttpGet("types")]
         public async Task<ActionResult<IReadOnlyList<ProductType>>> GetProductTypes()
         {
-            var types = await _productRepository.ListAllAsync();
+            var types = await _productTypeRepository.ListAllAsync();
             return Ok(types);
         }
         [HttpPost]

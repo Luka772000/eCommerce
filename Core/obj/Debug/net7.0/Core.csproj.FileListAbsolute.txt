@@ -10,3 +10,5 @@ C:\Users\Luka\source\repos\eCommerce API\Core\obj\Debug\net7.0\Core.dll
 C:\Users\Luka\source\repos\eCommerce API\Core\obj\Debug\net7.0\refint\Core.dll
 C:\Users\Luka\source\repos\eCommerce API\Core\obj\Debug\net7.0\Core.pdb
 C:\Users\Luka\source\repos\eCommerce API\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Luka\source\repos\eCommerce API\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+C:\Users\Luka\source\repos\eCommerce API\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
