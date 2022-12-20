@@ -1,4 +1,5 @@
 ﻿using Infrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,6 +13,11 @@ namespace eCommerce_API.Controllers
         public BuggyController(StoreContext context)
         {
             _context = context;
+        }
+        [HttpGet("testauth")]
+        [Authorize]
+        public ActionResult<string> GetSecretText() {
+            return "secret stuff";
         }
         [HttpGet("notfound")]
         public ActionResult GetNotFoundRequest()

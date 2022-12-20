@@ -3,13 +3,14 @@ using eCommerce_API.Errors;
 using Infrastructure.Data.Repositories;
 using Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
-
+using Infrastructure.Services;
 namespace eCommerce_API.Extensions
 {
     public static class ApplicationServicesExtensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
+            services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>)));
             services.AddScoped<IBasketRepository, BasketRepository>();

@@ -1,6 +1,5 @@
 ﻿using Core.Entities;
 using Core.Interfaces;
-using Core.Entities;
 using StackExchange.Redis;
 using System;
 using System.Collections.Generic;

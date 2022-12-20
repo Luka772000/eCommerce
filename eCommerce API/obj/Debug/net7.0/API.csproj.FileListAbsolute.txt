@@ -266,3 +266,16 @@ C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsof
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Newtonsoft.Json.Schema.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
