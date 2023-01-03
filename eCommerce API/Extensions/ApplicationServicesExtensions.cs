@@ -4,12 +4,16 @@ using Infrastructure.Data.Repositories;
 using Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Infrastructure.Services;
+using Infrastructure.Data;
+
 namespace eCommerce_API.Extensions
 {
     public static class ApplicationServicesExtensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IOrderService, OrderService>();
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>)));
