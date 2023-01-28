@@ -1694,6 +1694,18 @@
           }
         }
       },
+      "Stripe.net/41.4.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "41.4.0.0",
+            "fileVersion": "41.4.0.0"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -2518,6 +2530,7 @@
           "Newtonsoft.Json.Schema": "3.0.14",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.1",
           "StackExchange.Redis": "2.6.86",
+          "Stripe.net": "41.4.0",
           "System.IdentityModel.Tokens.Jwt": "6.25.1"
         },
         "runtime": {
@@ -3406,6 +3419,13 @@
       "sha512": "sha512-++rdOGeAJ3GUZADwygIgap4fyU/pvvtRLN2FClawW/OxG5XhfS/mH66ADk19k+oj6SawuBqgH39mhKhVngai/g==",
       "path": "stackexchange.redis/2.6.86",
       "hashPath": "stackexchange.redis.2.6.86.nupkg.sha512"
+    },
+    "Stripe.net/41.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZTAorvWKMYLHU7zvxokD8ddwTAHbdeQCyaBQc7uKCtzSHsW+OGzdMehUX+5mU5JgE9AEcheRck4S6j+H4j2HFw==",
+      "path": "stripe.net/41.4.0",
+      "hashPath": "stripe.net.41.4.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",

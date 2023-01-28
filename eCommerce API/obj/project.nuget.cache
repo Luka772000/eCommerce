@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WcnaO2qvb+JLY87yJ2wzenCweh5rz2DvD/0mwm90xgNL1uWbvsIsfGoMh7lo3PyxibVyZTi3tPnkIvM9rkC4EA==",
+  "dgSpecHash": "Lh8Bfy5jpPShv1xW7U+X2FUOcLv5MZ7uEamPk8tOIUeMp+wogXZVsgF+O22SNFs0ol1aspb3iNYm+5ia9TJMkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\API.csproj",
   "expectedPackageFiles": [
@@ -129,6 +129,7 @@
     "C:\\Users\\Luka\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\stackexchange.redis\\2.6.86\\stackexchange.redis.2.6.86.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\stripe.net\\41.4.0\\stripe.net.41.4.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

@@ -279,3 +279,4 @@ C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\System.I
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luka\source\repos\eCommerce API\eCommerce API\bin\Debug\net7.0\Stripe.net.dll
