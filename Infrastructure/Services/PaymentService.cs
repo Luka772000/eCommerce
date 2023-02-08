@@ -1,6 +1,8 @@
 ﻿using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Core.Interfaces;
+using Core.Specifications;
+using Microsoft.EntityFrameworkCore.Query.Internal;
 using Microsoft.Extensions.Configuration;
 using Stripe;
 
@@ -73,14 +75,32 @@ namespace Infrastructure.Services
 
         }
 
-        public Task<Order> UpdateOrderPaymentFailed(string paymentIntentId)
+        public async Task<Order> UpdateOrderPaymentFailed(string paymentIntentId)
         {
-            throw new NotImplementedException();
+            var spec = new OrderByPaymentIntentIdWithItemsSpecification(paymentIntentId);
+            var order = await _unitOfWork.Repository<Order>().GetEntityWithSpec(spec);
+
+            if (order == null) return null;
+
+            order.Status = OrderStatus.PaymentFailed;
+            await _unitOfWork.Complete();
+            return order;
         }
 
-        public Task<Order> UpdateOrderPaymentSucceeded(string paymentIntentId)
+        public async Task<Order> UpdateOrderPaymentSucceeded(string paymentIntentId)
         {
-            throw new NotImplementedException();
+            var spec = new OrderByPaymentIntentIdWithItemsSpecification(paymentIntentId);
+            var order = await _unitOfWork.Repository<Order>().GetEntityWithSpec(spec);
+
+            if (order == null) return null;
+
+            order.Status = OrderStatus.PaymentReceived;
+            _unitOfWork.Repository<Order>().Update(order);
+
+            await _unitOfWork.Complete();
+
+            return order;
+
         }
     }
 }
