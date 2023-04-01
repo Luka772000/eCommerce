@@ -1,0 +1,42 @@
+.cart-no{
+    margin-top: -50px;
+    margin-left:25px;
+    position: absolute;
+    min-height:25px;
+    min-width:25px;
+    border-radius: 50%;
+    font-size: 1em;
+    background-color: rgb(123, 0, 255);
+    color: white;
+    text-align: center;
+
+}
+.fa-shopping-cart{
+    margin-right: 30px;
+}
+.wrap{
+    position: relative;
+   
+}
+nav{
+    margin-left:30%;
+    margin-right:30%
+}
+a{
+    text-decoration:none;
+    color: #343a40;
+    
+
+}
+a.active{
+    color: orange;
+}
+a:hover{
+    color:rgb(255, 188, 30)
+}
+.dropdown{
+    margin-right:20px;
+}
+.LoginRegister{
+    margin-right:20px;
+}

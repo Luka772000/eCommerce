@@ -115,12 +115,10 @@ namespace Infrastructure.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasMaxLength(100)
                         .HasColumnType("varchar(1000)");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(100)
                         .HasColumnType("varchar(50)");
 
                     b.Property<string>("PictureUrl")

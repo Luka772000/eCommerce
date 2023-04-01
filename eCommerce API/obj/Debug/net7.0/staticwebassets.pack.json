@@ -1,76 +1,116 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\boot-ang1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\207.c1b0410e9518ed47.js",
+      "PackagePath": "staticwebassets\\207.c1b0410e9518ed47.js"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\boot-ang2.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\boot-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\481.de19a6fb4b2e6b7f.js",
+      "PackagePath": "staticwebassets\\481.de19a6fb4b2e6b7f.js"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\boot-core2.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\537.1c8089c2112433af.js",
+      "PackagePath": "staticwebassets\\537.1c8089c2112433af.js"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\boot-redis1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\717.76cd79327423d5f8.js",
+      "PackagePath": "staticwebassets\\717.76cd79327423d5f8.js"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\glove-code1.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\812.6cd4f56dd471d6e4.js",
+      "PackagePath": "staticwebassets\\812.6cd4f56dd471d6e4.js"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\glove-code2.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\NikeShoe5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\NikeShoe5.jpg"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\glove-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\gym.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gym.png"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\glove-react2.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero1.jpg"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\hat-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero2.jpg"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\hat-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero3.jpg"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\hat-react2.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\sb-ang1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\assets\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\placeholder.png"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\sb-ang2.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\common.97317041cb47f5bc.js",
+      "PackagePath": "staticwebassets\\common.97317041cb47f5bc.js"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\sb-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-brands-400.0ad87b221b2a302b.woff2",
+      "PackagePath": "staticwebassets\\fa-brands-400.0ad87b221b2a302b.woff2"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\sb-core2.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-brands-400.aaa8e2177da4fbb8.ttf",
+      "PackagePath": "staticwebassets\\fa-brands-400.aaa8e2177da4fbb8.ttf"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\sb-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-regular-400.0c4a336f909e1eaa.woff2",
+      "PackagePath": "staticwebassets\\fa-regular-400.0c4a336f909e1eaa.woff2"
     },
     {
-      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\images\\products\\sb-ts1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-regular-400.f7cc78e99baa2bf5.ttf",
+      "PackagePath": "staticwebassets\\fa-regular-400.f7cc78e99baa2bf5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-solid-900.43a87668a828405a.ttf",
+      "PackagePath": "staticwebassets\\fa-solid-900.43a87668a828405a.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-solid-900.71ed02b437225dbb.woff2",
+      "PackagePath": "staticwebassets\\fa-solid-900.71ed02b437225dbb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-v4compatibility.2484748dc83e00c0.ttf",
+      "PackagePath": "staticwebassets\\fa-v4compatibility.2484748dc83e00c0.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\fa-v4compatibility.3d89958eb70dfc25.woff2",
+      "PackagePath": "staticwebassets\\fa-v4compatibility.3d89958eb70dfc25.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\main.f2c310af4c62bc83.js",
+      "PackagePath": "staticwebassets\\main.f2c310af4c62bc83.js"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "PackagePath": "staticwebassets\\polyfills.f91a65f870354b2e.js"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\runtime.fbee0e4ac1f7c492.js",
+      "PackagePath": "staticwebassets\\runtime.fbee0e4ac1f7c492.js"
+    },
+    {
+      "Id": "C:\\Users\\Luka\\source\\repos\\eCommerce API\\eCommerce API\\wwwroot\\styles.cedf0bab82b209e3.css",
+      "PackagePath": "staticwebassets\\styles.cedf0bab82b209e3.css"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
